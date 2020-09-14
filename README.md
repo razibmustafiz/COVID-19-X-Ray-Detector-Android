@@ -1,12 +1,4 @@
----
-page_type: Project
-languages:
-- java
-products:
-Android Application
-description: "This application demonstrates a trained model exported from the Custom Vision Service in the TensorFlow format and add it to an Android application for real-time COVID-19 detection from Chest X-Ray."
-urlFragment: cognitive-services-android-customvision
----
+
 
 # COVID-19 Chest X-Ray Detector: A Real-time Android Application 
 This repository contains the project file needed to compile the Android application for a Realtime Smartphone based COVID-19 chest X-Ray detector. You can download the project folder to your PC and than load it to your Android Studio or you can fork it directly to your Android Studio by the link provided in Code section. This Android project contains Tensorflow CNN model trained on thousands of X-Ray data from well curated and trusted repositories.It is trained to detect COVID-19 Chest X-Ray from Normal and Normal Viral Pneumonia infected Chest X-Ray images.
