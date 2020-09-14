@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CXR Guide</string>
+    <string name="activity_name_classification">Classify</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="info_string">This app is designed to detect possible lung condition from X-Ray images.
+        A medical professional can use it as a decision support system to help them take better decision
+        faster. This app is trained on hundreds of X-Ray images with Artificial Intelligence. However, accurate prediction
+        is not guaranteed. This app can only act as a Radiologist\'s guide. This app is not accredited
+        by any Government/Non-Government Health service regulatory body of any country. Provider of this service
+        is not liable to any diagnostic decision taken by the user of this service.\n\nTo get a better predication aim your
+        mobile device to a well lit computer monitor screen or light box with X-Ray image on it. Make sure to
+        fill up the mobile screen with X-Ray image. A camera of less than 8MP is not recommended.\n\n
+        Designed and developed by Softavion Ltd.</string>
+    <string name="softavion_website">www.softavion.com</string>
+</resources>
